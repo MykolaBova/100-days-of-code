@@ -3,6 +3,13 @@
 ### R1D0: March 26, Monday
 **Thoughts:** So, plans for now - finish ReactFullStack Course on Udemy and work on sites for my freelance job.
 
+### R1D1 March 28, Wednesday -
+### R1D2 March 28, Wednesday
+
+**Today's Progress**: Worked on main page for blog. Done some markup and also started slider with typing effect. 
+
+**Thoughts:** Need to make reminder for this log, because totaly forgot to write it yesterday. 
+
 <!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
