@@ -3,8 +3,7 @@
 ### R1D0: March 26, Monday
 **Thoughts:** So, plans for now - finish ReactFullStack Course on Udemy and work on sites for my freelance job.
 
-### R1D1 March 28, Wednesday -
-### R1D2 March 28, Wednesday
+### R1D1-R1D2 March 27-28, Tuesday-Wednesday
 
 **Today's Progress**: Worked on main page for blog. Done some markup and also started slider with typing effect. 
 
