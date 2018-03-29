@@ -9,6 +9,12 @@
 
 **Thoughts:** Need to make reminder for this log, because totaly forgot to write it yesterday. 
 
+### R1D3 March 29, Thursday
+
+**Today's Progress**: Continued to work on main page for blog. Finished slider and start portfolio gallery.
+
+**Thoughts:** I hope I can start and finish my coding hours early, because I need more sleep.
+
 <!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
