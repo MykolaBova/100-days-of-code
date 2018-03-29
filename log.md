@@ -13,7 +13,7 @@
 
 **Today's Progress**: Continued to work on main page for blog. Finished slider and start portfolio gallery.
 
-**Thoughts:** I hope I can start and finish my coding hours early, because I need more sleep.
+**Thoughts:** I hope I could start and finish my coding hours early, because I need more sleep.
 
 <!-- # 100 Days Of Code - Log
 
