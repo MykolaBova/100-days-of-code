@@ -15,6 +15,12 @@
 
 **Thoughts:** I hope I could start and finish my coding hours early, because I need more sleep.
 
+### R1D4-R1D5 March 30-31, Friday-Saturday
+
+**Today's Progress:** Yesterday tried to finish main page for this blogoportfolio site. But no ) Today did some work on Udemy React Course although it's just copy-past tutorial stuff.
+
+**Thoughts:** Well, I'm able to code every day, but have some problems with this log. Damn.
+
 <!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
