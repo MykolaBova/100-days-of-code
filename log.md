@@ -29,35 +29,17 @@
 
 **Link to work:** [React Basic Project](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/tree/master/Tuts/React/react_basics0)
 
-<!-- # 100 Days Of Code - Log
+### R1D9 April 4, Wednesday
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress:** Today decided to redesign the portfolio site, LOL. Done with markup for the main page, have some ideas about gallery page. Hope, it will look cool. Also spent some time to work on React course - about React Router and Lifecycles. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** React is still easy. It's a little bit frustrating, have the feeling like I missed smth here.
 
 
-### Day 1: June 27, Monday
+<!-- **Today's Progress:**
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:**
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Link to work:** []()  -->
 
 
