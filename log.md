@@ -21,6 +21,14 @@
 
 **Thoughts:** Well, I'm able to code every day, but have some problems with this log. Damn.
 
+### R1D6-R1D8 April 1-3, Sunday-Tuesday
+
+**Today's Progress:** More progress on the blogoportfolio site. Done with markup, need to finish some effects yet. Also finished first little project for React Course (it's not mine, it's just copy-paste with some playing about it).
+
+**Thoughts:** Need to figured out how to write this log everyday. Also React isn't hard at all yet. We'll see what's next.
+
+**Link to work:** [React Basic Project](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/tree/master/Tuts/React/react_basics0)
+
 <!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
