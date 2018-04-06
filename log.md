@@ -35,6 +35,12 @@
 
 **Thoughts:** React is still easy. It's a little bit frustrating, have the feeling like I missed smth here.
 
+### R1D10 April 5, Thursday
+
+**Today's Progress:** Spent more time on React Course.
+
+**Thoughts:** It will so hard and busy day, but I can manage to do my study work for these challenge. So proud of myself. 
+
 
 <!-- **Today's Progress:**
 
