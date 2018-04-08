@@ -41,6 +41,11 @@
 
 **Thoughts:** It will so hard and busy day, but I can manage to do my study work for these challenge. So proud of myself. 
 
+### R1D11-R1D12 April 6-7, Friday-Saturday
+
+**Today's Progress:** More React Course.
+
+**Thoughts:** Nothing special. Just some more information about lifecycles.
 
 <!-- **Today's Progress:**
 
