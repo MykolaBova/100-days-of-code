@@ -49,7 +49,7 @@
 
 ### R1D13 April 8, Sunday and Easter!
 
-**Today's Progress:** It was pretty much lazy day, and Easter by the way - you can't work at Easter, it's a sin!:). And I was tired of this React, so decided to do some easy markup stuff. Taked a course about Advanced CSS and done some work from first project by myself, than checked it with original from tutorial (CSS-animation, vertical align with transform and some other style tips, also watched cool videos about parsing CSS).
+**Today's Progress:** It was pretty much lazy day, and Easter by the way - you can't work at Easter, it's a sin! :). And I was tired of this React, so decided to do some easy markup stuff. Taked a course about Advanced CSS and done some work from the first project by myself, than checked it with original materials from the tutorial (CSS-animation, vertical align with transform and some other style tips, also watched cool videos about parsing CSS).
 
 **Thoughts:** It's a really good practice than you're trying to redo tutorial code by yourself after watching video instead of just copy-paste it. Need to try it with React course. 
 
