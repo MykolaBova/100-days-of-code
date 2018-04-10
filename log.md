@@ -55,6 +55,12 @@
 
 **Link to work:** [Natours Template](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/tree/master/Tuts/MarkUp/CSSandSassUdemy/MyWorks/Natours)
 
+### R1D14 April 9, Monday
+
+**Today's Progress:** Still walking through this Advanced CSS course and making a template with some animation and other funny stuff.
+
+**Thoughts:** It's kinda rest for me but I've learned some useful thing, for example, Sass and three principles of good markup. Also it has many little tips for cool style.
+
 <!-- **Today's Progress:**
 
 **Thoughts:**
