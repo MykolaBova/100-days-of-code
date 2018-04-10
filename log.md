@@ -61,6 +61,12 @@
 
 **Thoughts:** It's kinda rest for me but I've learned some useful thing, for example, Sass and three principles of good markup. Also it has many little tips for cool style.
 
+### R1D15 April 10, Tuesday
+
+**Today's Progress:** Tried to finish the first project of Advanced CSS course but don't, not today. Did like 2/3 of it.
+
+**Thoughts:** Sass is really cool thing, and it work well with BEM. Also the course has some really cool tips and tricks in CSS that I didn't know. But I need to come back to React course and my freelance job.
+
 <!-- **Today's Progress:**
 
 **Thoughts:**
