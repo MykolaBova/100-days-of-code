@@ -67,6 +67,16 @@
 
 **Thoughts:** Sass is really cool thing, and it work well with BEM. Also the course has some really cool tips and tricks in CSS that I didn't know. But I need to come back to React course and my freelance job.
 
+### R1D16-17 April 11-12, Wednesday-Thursday
+
+**Today's Progress:** Well, I needed to review Wordpress for my teaching job, so was reviewing for two days. 
+
+**Thoughts:** It' so much easier than the first time :) For example, I remember that I was so confused when install WP then. Now is really easy, don't understand what was so hard?
+
+### R1D18 April 14, Saturday
+
+Missed yesterday, sorry. It was totally shit day, so many troubles happend. (Friday 13, indeed)
+
 <!-- **Today's Progress:**
 
 **Thoughts:**
