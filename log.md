@@ -81,6 +81,14 @@ Missed yesterday, sorry. It was totally shit day, so many troubles happend. (Fri
 
 **Thoughts:** At last!
 
+### R1D18 April 14, Sunday
+
+**Today's Progress:** Reviewed my knowledge of React. It was not so wast, actually, LOL.
+
+**Thoughts:** So, it was really tough week for me. But it's ok. I supposed to learn React, but have no energy for this and decided to do smth easy than do nothing. And this course about CSS and Sass was surprisingly usefull! So many little hacks for styles. My markup is nicer now. Good. Let's hack React in the next week!
+
+P.S. My writing in English is awfull. Need to work on it too.
+
 <!-- **Today's Progress:**
 
 **Thoughts:**
