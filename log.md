@@ -77,6 +77,10 @@
 
 Missed yesterday, sorry. It was totally shit day, so many troubles happend. (Friday 13, indeed)
 
+**Today's Progress:** Finished MarkUp for the first project of this CSS course. Only responsive part is left to do.
+
+**Thoughts:** At last!
+
 <!-- **Today's Progress:**
 
 **Thoughts:**
