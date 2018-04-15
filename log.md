@@ -81,7 +81,7 @@ Missed yesterday, sorry. It was totally shit day, so many troubles happend. (Fri
 
 **Thoughts:** At last!
 
-### R1D18 April 14, Sunday
+### R1D19 April 15, Sunday
 
 **Today's Progress:** Reviewed my knowledge of React. It was not so wast, actually, LOL.
 
