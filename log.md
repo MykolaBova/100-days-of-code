@@ -89,6 +89,14 @@ Missed yesterday, sorry. It was totally shit day, so many troubles happend. (Fri
 
 P.S. My writing in English is awfull. Need to work on it too.
 
+### R1D20 April 16, Monday
+
+**Today's Progress:** Add media queries to the project for Advanced CSS course. Also watched some React course videos. 
+
+**Thoughts:** Media queries with Sass and mixins are really cool. I like it :) Also, at last, my commit on git makes sense, because I added it out of order or any sense in the past. Need to learn make meaningful and neat commits.
+
+**Link to work:** [Natours Template](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/commit/28ea74497c1226c727ab992687aaa335698aa755) 
+
 <!-- **Today's Progress:**
 
 **Thoughts:**
