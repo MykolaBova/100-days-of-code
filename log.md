@@ -97,6 +97,14 @@ P.S. My writing in English is awfull. Need to work on it too.
 
 **Link to work:** [Natours Template](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/commit/28ea74497c1226c727ab992687aaa335698aa755) 
 
+### R1D21 April 17, Tuesday
+
+**Today's Progress:** Add responsive images to the project for Advanced CSS course. Also continue to watch and read React. 
+
+**Thoughts:** There are so many little things in CSS and HTML that I don't know. Srcset-attribute was one of them. Now it's not.
+
+**Link to work:** [Natours Template](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/commit/4f0377d33366f4366bf58bc46aea65f36894fc79) 
+
 <!-- **Today's Progress:**
 
 **Thoughts:**
