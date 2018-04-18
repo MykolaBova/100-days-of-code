@@ -103,7 +103,13 @@ P.S. My writing in English is awfull. Need to work on it too.
 
 **Thoughts:** There are so many little things in CSS and HTML that I don't know. Srcset-attribute was one of them. Now it's not.
 
-**Link to work:** [Natours Template](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/commit/4f0377d33366f4366bf58bc46aea65f36894fc79) 
+**Link to work:** [Natours Template](https://github.com/AnastasiaGuskova/AnastasiaGuskova.github.io/commit/4f0377d33366f4366bf58bc46aea65f36894fc79)
+
+### R1D22 April 18, Wednesday 
+
+**Today's Progress:** Read about npm. Created a simple build process for CSS course project.
+
+**Thoughts:** Had problems with autoprefixer, can't fix them. Decided to include no autoprefixer :) While trying to solve the problem I understand that I don't understand npm clearly. But don't have time for this now. Later.
 
 <!-- **Today's Progress:**
 
